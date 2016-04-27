@@ -25,7 +25,7 @@ def open_TCGA(path, key_search):
     return count
 
 if __name__ == '__main__':
-    doc = pylatex.Document()
+    #doc = pylatex.Document()
     list_of_path = ["/is2/projects/JC_Cancers/TCGA_raw/BRCA/brca_rnaseq/RNASeq/UNC__IlluminaHiSeq_RNASeq/Level_3",
                     "/is2/projects/JC_Cancers/TCGA_raw/BRCA/brca_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
                     "/is2/projects/JC_Cancers/TCGA_raw/BLCA/blca_rnaseq/RNASeq/UNC__IlluminaHiSeq_RNASeq/Level_3",
@@ -45,7 +45,36 @@ if __name__ == '__main__':
                     "/is2/projects/JC_Cancers/TCGA_raw/FPPP/fppp_rnaseq/TotalRNASeqV2/UNC__IlluminaHiSeq_TotalRNASeqV2/Level_3",
                     "/is2/projects/JC_Cancers/TCGA_raw/GBM/gbm_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
                     "/is2/projects/JC_Cancers/TCGA_raw/HNSC/hnsc_rnaseq/RNASeq/UNC__IlluminaHiSeq_RNASeq/Level_3",
-                    "/is2/projects/JC_Cancers/TCGA_raw/HNSC/hnsc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3"]
+                    "/is2/projects/JC_Cancers/TCGA_raw/HNSC/hnsc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/KICH/kich_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/KIRC/kirc_rnaseq/RNASeq/UNC__IlluminaHiSeq_RNASeq/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/KIRC/kirc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/KIRP/kirp_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/LIHC/lihc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/LUAD/luad_rnaseq/RNASeq/UNC__IlluminaHiSeq_RNASeq/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/LUAD/luad_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/LUSC/lusc_rnaseq/RNASeq/UNC__IlluminaHiSeq_RNASeq/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/LUSC/lusc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/MESO/meso_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/OV/ov_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/PAAD/paad_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/PCPG/pcpg_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/PRAD/prad_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/READ/read_rnaseq/RNASeq/UNC__IlluminaGA_RNASeq/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/READ/read_rnaseq/RNASeqV2/UNC__IlluminaGA_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/READ/read_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/SARC/sarc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/SKCM/skcm_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/STAD/stad_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/TGCT/tgct_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/THCA/thca_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/THYM/thym_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/UCEC/ucec_rnaseq/RNASeq/UNC__IlluminaGA_RNASeq/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/UCEC/ucec_rnaseq/RNASeqV2/UNC__IlluminaGA_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/UCEC/ucec_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/UCS/ucs_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
+                    "/is2/projects/JC_Cancers/TCGA_raw/UVM/uvm_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3"]
+    result_file = open("Results.txt", "w")
     for path in list_of_path:
         #, "NM_175849", "NM_175848"
         list_of_keys = ["uc002wyc.3", "uc002wyc.2", "DNMT3B3", "DNMT3B2", "DNMT3B"]
@@ -54,14 +83,23 @@ if __name__ == '__main__':
             count = open_TCGA(path, key)
             d_key_count[key] = sum(count)
             # with doc.create(pylatex.Section("BRCA Cancer")):
+        result_file.write("%s\n" %path)
+        result_file.write("------------------------------\n")
+        result_file.write("Genes\t Counts\n")
+        result_file.write("------------------------------\n")
+        for key in list_of_keys:
+            result_file.write("%s\t %s\n" % (key, d_key_count[key]))
+            result_file.write("------------------------------\n")
 
-        with doc.create(pylatex.Section("%s\n" %path)):
-            with doc.create(pylatex.Tabular('|r|l|')) as table:
-                table.add_hline()
-                table.add_row(("Genes", 'Counts'))
-                table.add_hline()
-                for key in list_of_keys:
-                    table.add_row(("%s" % key, d_key_count[key]))
-                    table.add_hline()
+    result_file.close()
 
-    doc.generate_pdf('Count_Results')
+        # with doc.create(pylatex.Section("%s\n" %path)):
+        #     with doc.create(pylatex.Tabular('|r|l|')) as table:
+        #         table.add_hline()
+        #         table.add_row(("Genes", 'Counts'))
+        #         table.add_hline()
+        #         for key in list_of_keys:
+        #             table.add_row(("%s" % key, d_key_count[key]))
+        #             table.add_hline()
+
+    #doc.generate_pdf('Count_Results')
