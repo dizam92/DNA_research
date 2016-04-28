@@ -14,14 +14,25 @@ def open_TCGA(path, key_search):
     os.chdir(path) # cd to the directory
     count = []
     d = {}  # dictionnaire
-    for file in glob("*.gene.quantification.txt"): # glob retourne une liste de tous les fichiers qui match ce pattern
+    # Can do this for all of the file type and for what i want to find
+
+    # for file in glob("*.gene.quantification.txt"): # glob retourne une liste de tous les fichiers qui match ce pattern
+    #     with open("%s" %file, "r") as f:
+    #         ligne = f.readlines()
+    #         for l in ligne:
+    #             l = l[:-1]
+    #             gene, raw_counts, median_length_normalized, RPKM = l.split('\t')
+    #             if gene.find(key_search) != -1:
+    #                 count.append(float(raw_counts))
+    for file in glob("*.isoforms.results"): # glob retourne une liste de tous les fichiers qui match ce pattern
         with open("%s" %file, "r") as f:
             ligne = f.readlines()
             for l in ligne:
                 l = l[:-1]
-                gene, raw_counts, median_length_normalized, RPKM = l.split('\t')
-                if gene.find(key_search) != -1:
-                    count.append(float(raw_counts))
+                isoform_id, raw_count, scaled_estimate = l.split('\t')
+                if isoform_id.find(key_search) != -1:
+                    count.append(float(raw_count))
+
     return count
 
 if __name__ == '__main__':
@@ -74,15 +85,16 @@ if __name__ == '__main__':
                     "/is2/projects/JC_Cancers/TCGA_raw/UCEC/ucec_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
                     "/is2/projects/JC_Cancers/TCGA_raw/UCS/ucs_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3",
                     "/is2/projects/JC_Cancers/TCGA_raw/UVM/uvm_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3"]
+
     result_file = open("Results.txt", "w")
     for path in list_of_path:
-        #, "NM_175849", "NM_175848"
-        list_of_keys = ["uc002wyc.3", "uc002wyc.2", "DNMT3B3", "DNMT3B2", "DNMT3B"]
+        #, "NM_175849", "NM_175848" , "DNMT3B3", "DNMT3B2", "DNMT3B"
+        list_of_keys = ["uc002wyc.3", "uc002wyc.2"]
         d_key_count = {}
         for key in list_of_keys:
             count = open_TCGA(path, key)
             d_key_count[key] = sum(count)
-            # with doc.create(pylatex.Section("BRCA Cancer")):
+
         result_file.write("%s\n" %path)
         result_file.write("------------------------------\n")
         result_file.write("Genes\t Counts\n")
@@ -92,14 +104,3 @@ if __name__ == '__main__':
             result_file.write("------------------------------\n")
 
     result_file.close()
-
-        # with doc.create(pylatex.Section("%s\n" %path)):
-        #     with doc.create(pylatex.Tabular('|r|l|')) as table:
-        #         table.add_hline()
-        #         table.add_row(("Genes", 'Counts'))
-        #         table.add_hline()
-        #         for key in list_of_keys:
-        #             table.add_row(("%s" % key, d_key_count[key]))
-        #             table.add_hline()
-
-    #doc.generate_pdf('Count_Results')

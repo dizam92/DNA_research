@@ -1,0 +1,462 @@
+/is2/projects/JC_Cancers/TCGA_raw/BRCA/brca_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 8133.6
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/BLCA/blca_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 1355.49
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/LAML/laml_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/LGG/lgg_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 10.19
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/ACC/acc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/CESC/cesc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 1699.24
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/CHOL/chol_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 307.85
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/COAD/coad_rnaseq/RNASeqV2/UNC__IlluminaGA_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 45.13
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/COAD/coad_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 24.65
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/DLBC/dlbc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/ESCA/esca_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 393.49
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/FPPP/fppp_rnaseq/TotalRNASeqV2/UNC__IlluminaHiSeq_TotalRNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 965.69
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/GBM/gbm_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/HNSC/hnsc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 261.86
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/KICH/kich_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 1190.82
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/KIRC/kirc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 4757.56
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/KIRP/kirp_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 13399.93
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/LIHC/lihc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 1081.74
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/LUAD/luad_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 7454.5
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/LUSC/lusc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 2972.43
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/MESO/meso_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 9.51
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/OV/ov_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 1852.33
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/PAAD/paad_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 261.82
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/PCPG/pcpg_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/PRAD/prad_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 104.59
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/READ/read_rnaseq/RNASeqV2/UNC__IlluminaGA_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 21.91
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/READ/read_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 42.25
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/SARC/sarc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 82.19
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/SKCM/skcm_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 16.4
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/STAD/stad_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 4320.06
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/TGCT/tgct_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 1709394.02
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/THCA/thca_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 9083.72
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/THYM/thym_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 89.32
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/UCEC/ucec_rnaseq/RNASeqV2/UNC__IlluminaGA_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 4093.49
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/UCEC/ucec_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 4127.06
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/UCS/ucs_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 114.83
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/UVM/uvm_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+es	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/READ/read_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/SARC/sarc_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/SKCM/skcm_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/STAD/stad_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/TGCT/tgct_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 14271.22
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/THCA/thca_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/THYM/thym_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/UCEC/ucec_rnaseq/RNASeqV2/UNC__IlluminaGA_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 47.49
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/UCEC/ucec_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/UCS/ucs_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
+/is2/projects/JC_Cancers/TCGA_raw/UVM/uvm_rnaseq/RNASeqV2/UNC__IlluminaHiSeq_RNASeqV2/Level_3
+------------------------------
+Genes	 Counts
+------------------------------
+uc002wyc.3	 0
+------------------------------
+uc002wyc.2	 0.0
+------------------------------
+DNMT3B3	 0
+------------------------------
+DNMT3B2	 0
+------------------------------
+DNMT3B	 0
+------------------------------
